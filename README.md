@@ -7,6 +7,11 @@ Governos no mundo inteiro não conseguiram suprir a alta demanda por respiradore
 Este trabalho parte desta premissa. Foi construído sobre a plataforma arduino, utilizando linguagem C++, com recursos de fácil acesso, como arduino uno, sensores indutivos, motor nema etc.
 Foi criado também um aplicativo android para controle do protótipo.
 
+## Assista ao vídeo de montagem
+
+#### Clique na imagem para ser redirecionado ao YouTube
+[![Projeto O2](https://user-images.githubusercontent.com/25908584/172743590-fab4c822-14c1-446d-ba88-a0fe5eddfc67.jpeg)](https://youtu.be/H_RcWayBs60)
+
 Segue link para baixar aplicativo android no site do MIT APP INVENTOR
 
 http://ai2.appinventor.mit.edu/?locale=pt_BR#5090687866765312
